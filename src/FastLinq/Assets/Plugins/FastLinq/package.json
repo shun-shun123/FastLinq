@@ -1,17 +1,15 @@
 {
     "name": "com.shunsuke.fastlinq",
-    "version": "0.0.1",
     "displayName": "FastLinq",
-    "description": "FastLinq is light-weight library that improves the performance of some of the methods of System.Linq",
-    "unity": "2019.4",
+    "author": {
+        "name": "Shunsuke Saito"
+    },
+    "version": "0.0.1",
+    "unity": "2018.4",
+    "description": "Provides partial improvements of System.Linq.",
     "keywords": [
-        "System.Linq",
         "Linq",
-        "Performance",
         "FastLinq"
     ],
-    "author": {
-        "name": "Shunsuke Saito",
-        "email": "shunsuke15vb@gmail.com"
-    }
+    "license": "MIT"
 }
