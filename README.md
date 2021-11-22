@@ -1,0 +1,2 @@
+# UPM Package
+You can add `https://github.com/shun-shun123/FastLinq.git?path=src/FastLinq/Assets/Plugins/FastLinq` to Package Manager or add `"com.shunsuke.fastlinq": "https://github.com/shun-shun123/FastLinq.git?path=src/FastLinq/Assets/Plugins/FastLinq"` to Packages/manifest.json.
