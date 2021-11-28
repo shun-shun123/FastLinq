@@ -1,10 +1,10 @@
-{
+gi{
     "name": "com.shunsuke.fastlinq",
     "displayName": "FastLinq",
     "author": {
         "name": "Shunsuke Saito"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "unity": "2018.4",
     "description": "Provides partial improvements of System.Linq.",
     "keywords": [
